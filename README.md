@@ -2,6 +2,9 @@
 <h3>This repo is created for documentation purpose. The repo contains my personal work toward the SFU CMPT353 (Computational Data Science) course. You may use my solution as a reference. The .zip archive contains the original exercise files. For practice purpose, you can download the .zip archive and start working from there.</h3>
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
+<br/>
+<p> You are given two files: movie_list.txt (it has a list of movie title with correct names) and movie_ratings.csv (it has the ratings and movie title with incorrect names due to misspelling or other mistakes). The task of this exercise is to find the average ratings for each movie. </p>
+<br/>
 <p>Below is the exercise description </p>
 <hr>
 
